@@ -7,13 +7,13 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyllt.github.io/vitae
+url: https://gopikakini.github.io/vitae
 author: Fábio Madeira
 
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /cv/
+baseurl: /vitae/
 title: Gopika Kini's Resume
 name: Gopika Kini
 email: gopikagkini@gmail.com
